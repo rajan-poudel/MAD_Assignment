@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignemnt</string>
+    <string name="Do_not_account">Don\'t have an account yet?</string>
+    <string name="reset">Enter the email associated with your account \nand we\'ll send an email with instructions to \nreset your password.</string>
+    <string name="cnp">Create new password</string>
+    <string name="newPass">Your new password must be different\nfrom previous used password</string>
+    <string name="skip">Skip I\'II confirm later</string>
+</resources>
